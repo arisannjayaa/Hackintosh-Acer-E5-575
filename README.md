@@ -1,4 +1,4 @@
-# Hackintosh For Acer E5-575-32ND Tst
+# Hackintosh For Acer E5-575-32ND
 
 SPECS:
 
